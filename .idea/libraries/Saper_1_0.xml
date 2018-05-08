@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Saper 1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/Saper 1.0/miglayout-4.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Saper 1.0/miglayout-4.0-swing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

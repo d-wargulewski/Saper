@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Saper 1.0:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Saper_1_0_jar</output-path>
+    <root id="archive" name="Saper 1.0.jar">
+      <element id="module-output" name="Saper 1.0" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/miglayout-4.0-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/miglayout-4.0-swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/production/Saper 1.0/miglayout-4.0-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/out/production/Saper 1.0/miglayout-4.0-swing.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
